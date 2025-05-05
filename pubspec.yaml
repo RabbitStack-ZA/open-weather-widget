@@ -1,17 +1,17 @@
 name: open_weather_widget
 description: A Flutter package that provides an easy-to-use weather widget powered by Open Weather Map.
-version: 0.0.4
+version: 0.0.5
 author: Vineet Upadhyay<uvineet53@gmail.com>
 homepage: https://github.com/uvineet53/open-weather-widget
 
 environment:
-  sdk: ^3.5.1
+  sdk: ^3.7.2
 
 dependencies:
   flutter:
     sdk: flutter
-  dio: "^5.2.0"
-  intl: ^0.19.0
+  dio: "^5.8.0+1"
+  intl: ^0.20.2
   rxdart: ^0.28.0
   weather_icons: ^3.0.0
 
